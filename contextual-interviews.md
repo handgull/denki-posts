@@ -18,7 +18,7 @@ Le interviste contestuali sono interviste sul campo, il contesto di utilizzo del
 
 ### Empatia e spirito d'osservazione
 
-Spesso noi sviluppatori tendiamo a vedere l'utilizzo delle nostre creazioni come ovvio, ma i clienti finali hanno un contesto totalmente differente, bisogna immedesimarsi, approfondire le loro metodologie di lavoro e i loro reali problemi quotidiani.
+Spesso noi sviluppatori tendiamo a vedere l'utilizzo delle nostre creazioni come ovvio, ma i clienti finali hanno un contesto totalmente differente, bisogna immedesimarsi, approfondire le loro metodologie di lavoro e i loro reali problemi quotidiani. In questa fase non dobbiamo dare spunti o correggere comportamenti che si discostano da come avevamo pensato l'applicativo, siamo noi a dover imparare le loro metodologie.
 
 > Il nostro cervello si sovraccarica in contesti rumorosi, caotici, o pieni di interruzioni ed imprevisti. Dovreste tenere conto anche di questi piccoli aspetti.
 
@@ -28,13 +28,14 @@ Spesso noi sviluppatori tendiamo a vedere l'utilizzo delle nostre creazioni come
 - cosa viene usato per tenere traccia delle cose?
 - ci sono colleghi nelle vicinanze? Quanti? Come comunicano tra loro?
 - Gli utilizzatori finali si muovono molto o hanno una postazione fissa?
+- Gli utenti hanno dei particolari bias / aspettative?
 
 ## Gli ingredienti per una interview perfetta
 
-### Strumentazione consigliata
-
 1. Un registratore audio con una buona autonomia (una contextual interview idealmente dura 90 minuti).
-2. (opzionale) esistono degli occhiali che monitorano la traiettoria delle pupille degli utenti, ma sono molto costosi, un'alternativa gratuita sono le heatmap digitali (spesso AI powered) che dato uno screen possono simulare questa raccolta dati ed inoltre questo parametro può anche essere dedotto senza nessuno di questi strumenti se si osserva bene l'utente durante l'utilizzo.
+2. (opzionale) esistono degli occhiali che monitorano la traiettoria delle pupille degli utenti, ma sono molto costosi, un'alternativa economica sono le heatmap digitali (spesso AI powered) che dato uno screen possono simulare questa raccolta dati ed inoltre questo parametro può anche essere dedotto senza nessuno di questi strumenti se si osserva bene l'utente durante l'utilizzo.
+
+> Cercate di essere massimo in 2 o 3 ad osservare, non deve essere una presenza invasiva o pressante.
 
 ### Icebreakers
 
@@ -45,4 +46,8 @@ Per rompere il ghiaccio si potrebbe iniziare a fare delle domande per immedesima
 - Cosa devo tenere bene a mente mentre lavoro?
 - Quali sono i rischi o i maggiori problemi?
 - Cosa ti fa perdere la pazienza a volte?
-- Ti occupi anche di altre mansioni?
+- Ti occupi anche di altre mansioni? Da quanto lavori in questo ambito e come hai iniziato?
+
+## Raccomandazioni finali
+
+Per avere dei feedback solidi ed affidabili bisognerebbe intervista idealmente una quindicina di persone, notate bene che comunque anche solo una è meglio di zero! E prendete spesso appunti, preferendo la carta che è più veloce e ha meno imprevisti (connessione, batterie, guasti...).
